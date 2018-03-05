@@ -1,11 +1,11 @@
 # Reglas de la Comunidad
-Reglas de la Comunidad de Programadores de Venezuela.
+Reglas de la Comunidad de Programadores Venezolanos en Argentina.
 
 ## Normas de Convivencia
 * Queda prohibido el uso de adjetivos descalificadores (por razones políticas, religiosas, raciales o de cualquier otra índole) entre los usuarios como hacia los administradores o moderadores de la comunidad.
 
 ### Procedimiento
-* Comentario, se procederá a dejarlo al tanto de su falta, si persiste en su comportamiento se procede a eliminar dicho comentario. De persistir el usuario después de ello, se procederá a bloquearlo de la comunidad.
+* Comentario, se procederá a dejarlo al tanto de su falta, si persiste en su comportamiento, se procede a eliminar dicho comentario. De persistir el usuario después de ello, se procederá a bloquearlo de la comunidad.
 * Publicación, se procederá directamente a eliminar al miembro y su publicación.
 * Mensaje por Inbox, se le advertirá de la existencia de las presentes normas. De continuar con la actitud, se procederá directamente a bloquear de la comunidad. 
 
@@ -43,14 +43,14 @@ Nota: Si no estás seguro contacta con alguno de los administradores o moderador
 * Publicación, se procederá a eliminar dicha publicación. De persistir se procederá directamente a bloquear de la comunidad. 
 
 ## Pautas para publicar ofertas laborales
-Se eliminarán las ofertas laborales que no sigan las pautas de la comunidad:
+Se pasará a revisión y eliminarán las ofertas laborales que no sigan las pautas de la comunidad:
 * Nombre de la Empresa: (Si es personal indica tu nombre)
-* Perfil Requerido:
+* Perfil Requerido: (Indicando si hay o no requisitos excluyentes)
 * Ubicación:
 * Horarios:
-* Moneda: (USD o BsF)
 * Remuneración Aproximada: ( Min - Max - Aproximado )
 * Tipo de Contrato: (Fulltime - Partime - Freelance)
+* Tipo de Relación: (Dependencia - Contrato a Plazo Indefinido - Contrato Plazo Fijo )
 * Correo Electrónico: (Para Adjuntar CV)
 
 ### Observaciones
