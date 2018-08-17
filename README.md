@@ -27,7 +27,7 @@ Con el fin de organizar mejor el contenido de las publicaciones y facilitar la b
 Se procederá a eliminar dicha publicación. De continuar con la actitud, se procederá directamente a bloquear de la comunidad. 
 
 ## Venta de Servicios (Curso, Hosting, Desarrollo, entre otros).
-Solo se permitirán publicaciones de venta de servicios relacionados al grupo, cuando estas contengan algún beneficio para la comunidad de Desarrolladores Venezuela como:
+Solo se permitirán publicaciones de venta de servicios relacionados al grupo, cuando estas contengan algún beneficio para la comunidad de Programadores Venezolanos en Argentina como:
 * Descuentos únicos para miembros del grupo.
 * Muestra gratuita del servicio o producto.
 * Otros beneficios.
